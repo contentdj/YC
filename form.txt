@@ -1,7 +1,8 @@
+YCombinator Summer 2012 Application Form
 --------------------------------------------------------------------------------
 Company Name
 --------------------------------------------------------------------------------
-
+Opsving
 --------------------------------------------------------------------------------
 Company url, if any
 --------------------------------------------------------------------------------
@@ -9,28 +10,29 @@ Company url, if any
 --------------------------------------------------------------------------------
 Phone number(s)
 --------------------------------------------------------------------------------
-
+978-558-0203
 --------------------------------------------------------------------------------
 Please enter the Posterous url of a 1 minute video introducing the founders.
 [Instructions.](http://ycombinator.com/video.html)
 --------------------------------------------------------------------------------
-
+DO THIS SOON #FIXME #TODO
 --------------------------------------------------------------------------------
 YC usernames of all founders, including you, #{hn_user}, separated by spaces.
 (That's **usernames**, not given names: "bksmith," not "Bob Smith." If there
 are 3 founders, there should be 3 tokens in this answer.)
 --------------------------------------------------------------------------------
-
+nickbarnwell
 --------------------------------------------------------------------------------
 YC usernames of all founders, including you, #{hn_user}, who will live in the
 Bay Area June through August if we fund you. (Again, that's usernames, not
 given names.)
 --------------------------------------------------------------------------------
-
+nickbarnwell
 ---------------------------------------------------------------------------------
 What is your company going to make?
 --------------------------------------------------------------------------------
-
+Opsving removes the stress from food journaling for eating disorder patients
+in recovery
 --------------------------------------------------------------------------------
 If this application is a response to a YC RFS, which one?
 --------------------------------------------------------------------------------
@@ -43,24 +45,46 @@ before this startup. Put unfinished degrees in parens. List the main contact
 first. Separate founders with blank lines. Put an asterisk before the name of
 anyone **not** able to move to the Bay Area.
 --------------------------------------------------------------------------------
-
+YC Username => nickbarnwell 
+Name        => Nicholas Barnwell
+Age         => 19
+Github URL  => http://nickbarnwell.github.com 
+Facebook ID => nick.barnwell
+Twitter ID  => nickbarnwell
+Employer    => Estately
+Position    => Developer (Intern)
+School      => University of Washington, Seattle
+Degree      => (Computer Science)
+Grad Year   => 2014
 --------------------------------------------------------------------------------
 Please tell us in one or two sentences about the most impressive thing other
 than this startup that each founder has built or achieved.
 --------------------------------------------------------------------------------
-
+As a developer at Podio, I had the opportunity to write code that is now in use
+daily by the BBC, Twitter, BMW, Alcatel-Lucent, and many others. I would
+like to think few 18 year olds can say that. #TODO: Sounds too hubris-y
 --------------------------------------------------------------------------------
 Please tell us about the time you, #{hn_user}, most successfully hacked some
 (non-computer) system to your advantage.
 --------------------------------------------------------------------------------
-
+My best hack was recruiting at Podio - as an uncredentialed, unproven, and 
+freshly laid off from my first "real startup" (at 17) I attended a
+Hackathon they were hosting, volunteered to lead a team, and impressed their
+developers enough to secure a position that has been integral to my development
+as both a programmer and entrepreneur.
 --------------------------------------------------------------------------------
 Please tell us about an interesting project, preferably outside of class or
 work, that two or more of you created together. Include urls if possible.
 How long have the founders known one another and how did you meet? Have any
 of the founders not met in person?
 --------------------------------------------------------------------------------
+A great project I worked on with (potential cofounders) was SpunBy.me - a
+web app that lets users crowdsource DJing their event. Partygoers scan a QR
+code or visit a per-event URL and were presented with a YouTube search bar
+and the current queue of songs. They can add new items or vote on the existing
+ones, and the "best" song plays next. 
 
+And we built it in 24 hours too
 --------------------------------------------------------------------------------
 Why did you pick this idea to work on? Do you have domain expertise in this
 area? How do you know people need what you're making?

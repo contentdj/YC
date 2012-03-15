@@ -1,13 +1,14 @@
-Company Name:
+Company Name
   
-Company url, if any:
+Company url, if any
   
-Phone number(s):
+Phone number(s)
 
 Please enter the Posterous url of a 1 minute video introducing the founders. [Instructions.](http://ycombinator.com/video.html)
 
-YC usernames of all founders, including you, nickbarnwell, separated by spaces. (That's **usernames**, not given names: "bksmith," not "Bob Smith." If there are 3 founders, there should be 3 tokens in this answer.) 
-YC usernames of all founders, including you, nickbarnwell, who will live in the Bay Area June through August if we fund you. (Again, that's usernames, not given names.) 
+YC usernames of all founders, including you, #{hn_user}, separated by spaces. (That's **usernames**, not given names: "bksmith," not "Bob Smith." If there are 3 founders, there should be 3 tokens in this answer.) 
+
+YC usernames of all founders, including you, #{hn_user}, who will live in the Bay Area June through August if we fund you. (Again, that's usernames, not given names.) 
 
 What is your company going to make? 
 
@@ -17,7 +18,7 @@ For each founder, please list: YC username; name; age; year of graduation, schoo
 
 Please tell us in one or two sentences about the most impressive thing other than this startup that each founder has built or achieved. 
 
-Please tell us about the time you, nickbarnwell, most successfully hacked some (non-computer) system to your advantage. 
+Please tell us about the time you, #{hn_user}, most successfully hacked some (non-computer) system to your advantage. 
 
 Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible. 
 

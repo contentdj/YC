@@ -67,18 +67,19 @@ like to think few 18 year olds can say that. #TODO: Sounds too hubris-y
 Please tell us about the time you, #{hn_user}, most successfully hacked some
 (non-computer) system to your advantage.
 --------------------------------------------------------------------------------
-My best hack was recruiting at Podio - as an uncredentialed, unproven, and 
+My best hack was recruiting at Podio - uncredentialed, unproven, and 
 freshly laid off from my first "real startup" (at 17) I attended a
 Hackathon they were hosting, volunteered to lead a team, and impressed their
-developers enough to secure a position that has been integral to my development
-as both a programmer and entrepreneur.
+developers enough to secure a position. My six months there were
+an integral part of my development as both a programmer and entrepreneur,
+and I will never regret the bout of hubris that lead me to it.
 --------------------------------------------------------------------------------
 Please tell us about an interesting project, preferably outside of class or
 work, that two or more of you created together. Include urls if possible.
 How long have the founders known one another and how did you meet? Have any
 of the founders not met in person?
 --------------------------------------------------------------------------------
-A great project I worked on with (potential cofounders) was SpunBy.me - a
+A wicked fun  project I worked on with (potential cofounders) was SpunBy.me - a
 web app that lets users crowdsource DJing their event. Partygoers scan a QR
 code or visit a per-event URL and were presented with a YouTube search bar
 and the current queue of songs. They can add new items or vote on the existing
@@ -89,12 +90,18 @@ And we built it in 24 hours too
 Why did you pick this idea to work on? Do you have domain expertise in this
 area? How do you know people need what you're making?
 --------------------------------------------------------------------------------
-
+I have experienced first-hand the damage eating disorders cause, reflected in 
+the anguish of some of those dearest to me, and the long road to recovery
+faced by those just out of the darkest stages. If I could ease that suffering
+one iota, for just one person, it would be worth every ounce of the 
+blood, sweat, and tears I will put in to realise that vision.
 --------------------------------------------------------------------------------
 What's new about what you're making? What substitutes do people resort to
 because it doesn't exist yet (or they don't know about it)?
 --------------------------------------------------------------------------------
-
+The market is saturated with diet aids for the fitness-obsessed, the runner
+training for their first marathon, and the average person just looking to look
+nicer at the beach. 
 --------------------------------------------------------------------------------
 Who are your competitors, and who might become competitors?
 Who do you fear most?

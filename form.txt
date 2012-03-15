@@ -100,13 +100,21 @@ What's new about what you're making? What substitutes do people resort to
 because it doesn't exist yet (or they don't know about it)?
 --------------------------------------------------------------------------------
 The market is saturated with diet aids for the fitness-obsessed, the runner
-training for their first marathon, and the average person just looking to look
-nicer at the beach. 
+training for their first marathon, and the average person just looking to lose
+a couple of pounds. They focus on calorie intake, micromanaging macronutrients
+and highlight every weight delta - the exact reinforcement to be avoided for 
+those recovering from an obsession with those numbers. 
 --------------------------------------------------------------------------------
 Who are your competitors, and who might become competitors?
 Who do you fear most?
 --------------------------------------------------------------------------------
-
+The market isn't quite open, but it's certainly stuck in the analog age. 
+Solutions are cobbled together by those in recovery with spreadsheets
+and text files, or kept offline entirely with the data trapped on 
+paper worksheets or betwixt the pages of a diary. The largest fear is
+an established treatment center coming in and with their own solution 
+or digitization of existing materials. On a smaller scale, many sufferers will
+be reluctant to switch from their homegrown solutions if they've shown efficacy.
 --------------------------------------------------------------------------------
 What do you understand about your business that other companies in it just
 don't get?

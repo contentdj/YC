@@ -4,7 +4,7 @@ While starting on my YC application I found that there was no readily available
 text version of the form. A few :%s/pattern//'s later, I had a cleaned up 
 and easy to edit in vim version ready to go. 
 
-There are 14 days left to apply - will you?
+There are just weeks left to apply - will you?
 
 Usage
 ---

@@ -31,8 +31,8 @@ nickbarnwell
 ---------------------------------------------------------------------------------
 What is your company going to make?
 --------------------------------------------------------------------------------
-Opsving removes the stress from food journaling for eating disorder patients
-in recovery
+Opsving simplifies outpatient care for eating disorder patients and their
+treatment team
 --------------------------------------------------------------------------------
 If this application is a response to a YC RFS, which one?
 --------------------------------------------------------------------------------

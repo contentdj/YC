@@ -17,6 +17,6 @@ be sure your patch will receive feedback.
 For those who are entrepreneurially minded themselves, you don't want all the 
 cruft from  my form. Simply fork, clone and
 
-  `git checkout empty_form`
+  `git checkout empty_app`
 
-to start your own endeavour to YC acceptance 
+to start your own endeavour towards YC acceptance 

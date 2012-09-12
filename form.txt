@@ -12,7 +12,7 @@ Phone number(s)
 --------------------------------------------------------------------------------
 978-558-0203
 --------------------------------------------------------------------------------
-Please enter the Posterous url of a 1 minute video introducing the founders.
+Please enter the url of a 1 minute video introducing the founders.
 [Instructions.](http://ycombinator.com/video.html)
 --------------------------------------------------------------------------------
 DO THIS SOON #FIXME #TODO
@@ -34,7 +34,7 @@ What is your company going to make?
 Opsving simplifies outpatient care for eating disorder patients and their
 treatment team
 --------------------------------------------------------------------------------
-If this application is a response to a YC RFS, which one?
+If this application is a response to a YC RFS, which one? (Options: Ints 1-9)
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
@@ -76,6 +76,9 @@ and I will never regret the bout of hubris that lead me to it.
 --------------------------------------------------------------------------------
 Please tell us about an interesting project, preferably outside of class or
 work, that two or more of you created together. Include urls if possible.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 How long have the founders known one another and how did you meet? Have any
 of the founders not met in person?
 --------------------------------------------------------------------------------
@@ -171,11 +174,12 @@ If we fund you, which of the founders will commit to working exclusively
 --------------------------------------------------------------------------------
 nickbarnwell
 --------------------------------------------------------------------------------
-For founders who can't, why not? What level of commitment are they willing to make?
+For founders who can't, why not? What level of commitment are they 
+willing to make?
 --------------------------------------------------------------------------------
 N/A
 --------------------------------------------------------------------------------
-Do any founders have other commitments between June and August 2012 inclusive?
+Do any founders have other commitments between January and March 2013 inclusive?
 --------------------------------------------------------------------------------
 Not as of the submission date
 --------------------------------------------------------------------------------
